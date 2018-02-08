@@ -1,4 +1,5 @@
-Front matter, etc.
+This is just a brief walkthrough of the more notable
+repos under [https://github.com/sdob](https://github.com/sdob).
 
 ## Masqt
 
