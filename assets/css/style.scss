@@ -1,0 +1,47 @@
+---
+---
+
+@import "{{ site.theme }}";
+@import url('https://fonts.googleapis.com/css?family=Average+Sans|Raleway:400,700');
+
+body {
+  font-family: 'Average Sans', sans-serif;
+}
+
+p {
+  text-align: justify;
+}
+
+ul {
+  list-style-image: initial;
+  padding-left: 30px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Raleway', sans-serif;
+}
+
+.wrapper, section {
+  max-width: 900px;
+}
+
+a {
+  &:hover {
+    text-decoration: underline;
+  }
+  code {
+    color: inherit;
+  }
+}
+
+.extension-link-container p {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+p code {
+  margin: 0;
+  padding: 0;
+}
+
