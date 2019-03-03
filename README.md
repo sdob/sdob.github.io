@@ -4,6 +4,8 @@ I go in there and do things with computers.
 
 # Things I've worked on
 
+Here are a few things I've done; where possible I've linked to the source.
+
 ## Masqt
 
 I'm a co-founder, thing-stacker, and dogfooder-in-chief at
